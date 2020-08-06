@@ -8,6 +8,9 @@
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="" width="22px" src="https://img.icons8.com/android/24/000000/facebook-new.png" />][facebook]
+
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,6 +18,7 @@
 
 <br />
 
+[facebook]: https://www.facebook.com/ajul02
 [website]: https://rustyyyyy.github.io/bio/?fbclid=IwAR2uI2EfaGzX0LtkGtd7QGi5DBKFDUdPEeUsD4W6fxiC94NgAd9ouCWuWu8
 [youtube]: https://youtube.com/rustyy
 [instagram]: https://instagram.com/_rustyyyyy
