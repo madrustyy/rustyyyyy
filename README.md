@@ -3,7 +3,7 @@
 ## I love coding, doing research and sharing what I learn with others.😋
 - 🔭 I’m currently working on Django  😍
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Developers  👻
 
 
 ### Connect with me:
