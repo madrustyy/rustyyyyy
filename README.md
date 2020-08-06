@@ -62,9 +62,9 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
-[website]: https://codeSTACKr.com
+[website]: https://rustyyyyy.github.io/bio/?fbclid=IwAR2uI2EfaGzX0LtkGtd7QGi5DBKFDUdPEeUsD4W6fxiC94NgAd9ouCWuWu8
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
