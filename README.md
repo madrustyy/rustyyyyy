@@ -19,7 +19,9 @@
 </br>
 </br>
 
-![ajul's github stats](https://github-readme-stats.vercel.app/api?username=rustyyyyy&show_icons=true)
+![ajul's github stats](https://github-readme-stats.vercel.app/api?username=rustyyyyy&theme=vue&show_icons=true)
+
+
 
 
 [facebook]: https://www.facebook.com/ajul02
