@@ -16,7 +16,11 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+</br>
+</br>
+
+![ajul's github stats](https://github-readme-stats.vercel.app/api?username=rustyyyyy&show_icons=true)
+
 
 [facebook]: https://www.facebook.com/ajul02
 [website]: https://rustyyyyy.github.io/bio/?fbclid=IwAR2uI2EfaGzX0LtkGtd7QGi5DBKFDUdPEeUsD4W6fxiC94NgAd9ouCWuWu8
