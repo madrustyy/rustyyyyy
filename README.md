@@ -1,7 +1,7 @@
 ### Hi there, I'm Ajul - aka [RUSTYYYYY][website] 👋
 
 ## I love coding, doing research and sharing what I learn with others.😋
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on Django  😍
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
