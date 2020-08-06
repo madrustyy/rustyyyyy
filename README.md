@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers  👻
 
-
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -15,11 +14,6 @@
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
----
-
-
-<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
 
 [website]: https://rustyyyyy.github.io/bio/?fbclid=IwAR2uI2EfaGzX0LtkGtd7QGi5DBKFDUdPEeUsD4W6fxiC94NgAd9ouCWuWu8
 [youtube]: https://youtube.com/rustyy
