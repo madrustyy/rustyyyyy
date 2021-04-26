@@ -1,4 +1,4 @@
-### Hi there, I'm [Ajul] [website] 👋
+### Hi there, I'm [Ajul]  👋
 
 ## I love coding, doing research and sharing what I learn with others.😋
 - 🔭 I’m currently working on Django  😍
@@ -25,7 +25,7 @@
 
 
 [facebook]: https://www.facebook.com/ajul02
-[website]: https://stark-plains-50050.herokuapp.com/
+[Ajul]: https://stark-plains-50050.herokuapp.com/
 [youtube]: https://www.youtube.com/channel/UC-vl7mo-RrGuLvt0nerUBMA/videos
 [instagram]: https://instagram.com/_rustyyyyy
 
