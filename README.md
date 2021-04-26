@@ -25,7 +25,7 @@
 
 
 [facebook]: https://www.facebook.com/ajul02
-[Ajul]: https://stark-plains-50050.herokuapp.com/
+[Ajul]: https://rustyy.herokuapp.com
 [youtube]: https://www.youtube.com/channel/UC-vl7mo-RrGuLvt0nerUBMA/videos
 [instagram]: https://instagram.com/_rustyyyyy
 
