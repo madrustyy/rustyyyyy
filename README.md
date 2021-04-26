@@ -1,4 +1,4 @@
-### Hi there, I'm [Ajul] [website] 👋
+### Hi there, I'm [Ajul] 👋
 
 ## I love coding, doing research and sharing what I learn with others.😋
 - 🔭 I’m currently working on Django  😍
