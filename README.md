@@ -26,7 +26,7 @@
 
 [facebook]: https://www.facebook.com/ajul02
 [website]: https://stark-plains-50050.herokuapp.com/
-[youtube]: https://youtube.com/rustyy
+[youtube]: https://www.youtube.com/channel/UC-vl7mo-RrGuLvt0nerUBMA/videos
 [instagram]: https://instagram.com/_rustyyyyy
 [linkedin]: https://linkedin.com/in/ajul-maharjan-701b681a2
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
