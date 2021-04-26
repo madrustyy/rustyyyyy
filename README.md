@@ -7,7 +7,7 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Ajul]
 
 [<img align="left" alt="" width="22px" src="https://img.icons8.com/android/24/000000/facebook-new.png" />][facebook]
 
