@@ -1,10 +1,7 @@
 ### Hi there, I'm [Ajul]  👋
 
 ## I love coding, doing research and sharing what I learn with others.😋
-- 🔭 I’m currently working on Django  😍
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers  👻
----
+
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Ajul]
